@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on python and java basic projects
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on python and elixir basic projects
+- 🌱 I’m currently learning aboout everything
 - 🤔 I’m looking for help with everything and nothing
 - 📫 How to reach me:</br>
     - [Discord](https://discordapp.com/users/369271187945160706/)</br>
